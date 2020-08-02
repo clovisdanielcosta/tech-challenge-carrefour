@@ -1,8 +1,8 @@
 <h1 align="center">
-:small_red_triangle_down:  Agenda de Compromissos
+:small_red_triangle_down:  Tech Challenge Carrefour
 </h1>
 <h2 align="center">
-Curso Python e Django - Desenvolvimento Web e Banco de Dados
+Criação de App para Compra em Grupo
 </h3>
 <h3 align="center">
 Bootcamp Global FullStack Developer da Digital Innovation One
@@ -15,28 +15,19 @@ Bootcamp Global FullStack Developer da Digital Innovation One
 </p>
 
 <p>
-O objetivo deste projeto é reproduzir uma agenda customizada a partir do modelo apresentado no curso de Introdução ao Python e Django - Desenvolvimento Web e Banco de Dados da <b>Digital Innovation One</b> aplicando alguns conceitos aprendidos no cursos de HTML5 e CSS3.
+O objetivo deste projeto é vender a ideia de um app para melhorar o relacionamento entre o Grupo Carrefour e seus clientes  aplicando alguns conceitos aprendidos no cursos de Python, JavaScript, HTML5 e CSS3.
 </p>
 
 <p align="center">
-  <a href="#cloud-deploy">Deploy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-instalando">Instalando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#books-aprendendo">Aprendendo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#small_orange_diamond-contribuindo">Contribuindo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#small_orange_diamond-customizando">Customizando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#small_orange_diamond-licença">Licença</a>
 </p>
 
 <p align="center">
   <img alt="Appo" src="core/static/img/carrefour.gif" width="90%">
 </p>
-
-## :cloud: Deploy
-
-Foi usado o servidor Heroku para o deploy e pipeline de integração contínua da aplicação. Para testar a aplicação use o usuário "convidado" e senha "user12345" no link abaixo:
-
-[https://python-agenda.herokuapp.com/](https://python-agenda.herokuapp.com/)
 
 ## :rocket: Tecnologias
 
@@ -56,7 +47,7 @@ Nesse projeto foram usadas as seguintes tecnologias:
 
 2. Faça o clone deste repositório numa pasta desejada: 
 
-    `$ git clone -b localhost https://github.com/clovisdanielcosta/python-agenda.git`
+    `$ git clone https://github.com/clovisdanielcosta/python-agenda.git`
 
 3. Entre na pasta do app:
 
@@ -86,13 +77,6 @@ Nesse projeto foram usadas as seguintes tecnologias:
   
     `localhost:8000/`
 
-## :books: Aprendendo
-
-- Entendendo como usar o Flask para tornar o desenvolvimento mais simples.
-- Autenticação de usuário no Django.
-- Criação de rotas para views personalizadas.
-- Uso de arquivos estáticos no Django.
-
 ## :small_orange_diamond: Contribuindo
 
 1. Para que o Django localize seus arquivos estáticos, por exemplo de imagens ou estilos, deverá criar um diretório dentro do projeto chamado "static" e colocar estes arquivos dentro desta pasta. Depois disto basta fazer as referências deles dentro dos templates das seguintes formas:
@@ -112,15 +96,6 @@ Nesse projeto foram usadas as seguintes tecnologias:
 
     [https://www.youtube.com/watch?v=wsi0xpHUM00](https://www.youtube.com/watch?v=wsi0xpHUM00)
 
-## :small_orange_diamond: Customizando
-
-1. O projeto original era focado no backend e foi feita a estilização do frontend.
-2. Criaçao da Logo do app.
-3. Adição de campo na tabela evento para incluir o local do evento.
-4. Inclusão de Consulta  Eventos Passados e Todos os Eventos.
-5. Criada função para Exportar Dados em formato JSON.
-6. Migração do banco de dados de Sqlite para Postgres.
-
 ## :small_orange_diamond: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
@@ -128,8 +103,8 @@ A(s) imagem(s) usada(s) neste projeto são originais do autor ou foram obtidas a
 
 ## :small_orange_diamond: Agradecimentos
 
-Quero agradecer a <b>Digital Innovation One</b> e parabenizar o Rafael Galleani pelo excelente ensino durante as aulas. 
-Parabéns, vocês estão fazendo um ótimo trabalho em favor da sociedade! 
+Quero agradecer a <b>Digital Innovation One</b> e ao Banco Carrefour pelo excelente projeto perante a comunidade. 
+Parabéns, a sociedade só tem a agradecer! 
 
 Muito obrigado! :clap::clap:
 
