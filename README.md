@@ -15,7 +15,7 @@ Bootcamp Global FullStack Developer da Digital Innovation One
 </p>
 
 <p>
-O objetivo deste projeto é vender a ideia de um app para melhorar o relacionamento entre o Grupo Carrefour e seus clientes  aplicando alguns conceitos aprendidos no cursos de Python, JavaScript, HTML5 e CSS3.
+O objetivo deste projeto é vender a ideia de um app para melhorar o relacionamento entre o Grupo Carrefour e seus clientes  aplicando alguns conceitos aprendidos nos cursos de Python, JavaScript, HTML5 e CSS3.
 </p>
 
 <p align="center">
