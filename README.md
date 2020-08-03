@@ -29,6 +29,10 @@ O objetivo deste projeto é vender a ideia de um app para melhorar o relacioname
   <img alt="Appo" src="core/static/img/carrefour.gif" width="90%">
 </p>
 
+<p align="center">
+<a href="https://drive.google.com/file/d/12s1FKM6XBR-KX4fM2ShBg0z5EYothb-l/view?usp=sharing">Vídeo do Projeto</a>
+</p>
+
 ## :rocket: Tecnologias
 
 Nesse projeto foram usadas as seguintes tecnologias:
